@@ -1,0 +1,6 @@
+{
+  "name": "CryptoSignals Pro - Supertrend & ADX Tracker",
+  "description": "Real-time algorithmic crypto signal provider based on Supertrend and ADX/DMI strategy on Binance Futures with instant alerts, risk management, and interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
